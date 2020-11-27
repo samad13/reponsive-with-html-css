@@ -145,7 +145,7 @@ ul#services li{
     background-color: #e6e6e6;
 }
 /*media queries*/
-@media(max-width:500px){
+@media(max-width:768px){
     header #branding,header nav,header nav li, #newsletter h1,#newsletter form, #boxes .box,
     article#main-col, aside#sidebar{
         float: none;
